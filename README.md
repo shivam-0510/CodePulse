@@ -1,4 +1,4 @@
-# CodeEditor - Compile and Execute code in 40+ languages
+# CodePulse - Compile and Execute code in 40+ languages
 
 ⚡️ A code editor that compiles and runs your code on the web.
 ## Features: 
